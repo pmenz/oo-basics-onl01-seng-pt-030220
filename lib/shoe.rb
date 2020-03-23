@@ -1,4 +1,5 @@
 # Make your shoe class here!
+
 class Shoe
   def initialize(brand)
     @brand = brand
@@ -19,6 +20,7 @@ class Shoe
   def color=(color)
     @color = color
   end
+ 
  
  def size
    @size 
